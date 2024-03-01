@@ -11,6 +11,10 @@ import { SOUND_DATA_EXTRA } from "./data";
 function App() {
 	return (
 		<section className="container">
+			<div className="p-4 pt-6 space-y-1 text-center">
+				<p className="font-bold text-3xl">⚔ RuneScape Kingdoms ⚔</p>
+				<p className="text-xl">🐲 Shadow of Elvarg 🐲</p>
+			</div>
 			<div className=" p-4 space-y-4 md:grid md:grid-cols-3 md:gap-8 md:space-y-0">
 				<div className="grid grid-cols-2 gap-4 p-4 rounded-lg bg-amber-300">
 					{SOUND_DATA_VARROCK.map((item) => (
