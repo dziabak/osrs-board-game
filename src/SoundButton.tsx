@@ -3,7 +3,6 @@ import { useState } from "react";
 import { useOnClickOutside } from "usehooks-ts";
 
 interface Music {
-	id: number;
 	name: string;
 	url: string;
 }
@@ -71,8 +70,8 @@ const SoundButton = ({ name, tracks }: { name: string; tracks: Music[] }) => {
 				<button
 					ref={buttonRef}
 					onClick={handleButtonClick}
-					className={`px-6 py-3 border border-black rounded-md text-lg hover:bg-cyan-100 transition-colors ${
-						active ? "bg-cyan-500" : ""
+					className={`w-full h-full px-1 py-2 border border-black rounded-md text-lg hover:bg-slate-200 transition-colors ${
+						active ? "bg-slate-100" : "bg-white"
 					}`}>
 					{name}
 				</button>
