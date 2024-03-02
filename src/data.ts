@@ -6,19 +6,19 @@ export const SOUND_DATA_VARROCK = [
 		tracks: [
 			{
 				name: "Adventure",
-				url: "https://oldschool.runescape.wiki/images/Adventure.ogg?0272b",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Adventure_%28v1%29.ogg/Adventure_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Garden",
-				url: "https://oldschool.runescape.wiki/images/Garden.ogg?0dd5f",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Garden_%28v1%29.ogg/Garden_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Medieval",
-				url: "https://oldschool.runescape.wiki/images/Medieval.ogg?77076",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Medieval_%28v1%29.ogg/Medieval_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Spirit",
-				url: "https://oldschool.runescape.wiki/images/Spirit.ogg?19c20",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Spirit_%28v1%29.ogg/Spirit_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -27,7 +27,7 @@ export const SOUND_DATA_VARROCK = [
 		tracks: [
 			{
 				name: "The Trade Parade",
-				url: "https://oldschool.runescape.wiki/images/The_Trade_Parade.ogg?d3615",
+				url: "https://oldschool.runescape.wiki/images/transcoded/The_Trade_Parade_%28v1%29.ogg/The_Trade_Parade_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -36,7 +36,7 @@ export const SOUND_DATA_VARROCK = [
 		tracks: [
 			{
 				name: "Lullaby",
-				url: "https://oldschool.runescape.wiki/images/Lullaby.ogg?51d2e",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Lullaby_%28v1%29.ogg/Lullaby_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -45,19 +45,19 @@ export const SOUND_DATA_VARROCK = [
 		tracks: [
 			{
 				name: "Doorways",
-				url: "https://oldschool.runescape.wiki/images/Doorways.ogg?6f41a",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Doorways_%28v1%29.ogg/Doorways_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Expanse",
-				url: "https://oldschool.runescape.wiki/images/Expanse.ogg?70920",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Expanse_%28v1%29.ogg/Expanse_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Greatness",
-				url: "https://oldschool.runescape.wiki/images/Greatness.ogg?72be0",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Greatness_%28v1%29.ogg/Greatness_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Still Night",
-				url: "https://oldschool.runescape.wiki/images/Still_Night.ogg?e9718",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Still_Night_%28v1%29.ogg/Still_Night_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -69,27 +69,27 @@ export const SOUND_DATA_FALADOR = [
 		tracks: [
 			{
 				name: "Arrival",
-				url: "https://oldschool.runescape.wiki/images/Arrival.ogg?2c756",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Arrival_%28v1%29.ogg/Arrival_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Fanfare",
-				url: "https://oldschool.runescape.wiki/images/Fanfare.ogg?f5a41",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Fanfare_%28v1%29.ogg/Fanfare_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Workshop",
-				url: "https://oldschool.runescape.wiki/images/Workshop.ogg?a5283",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Workshop_%28v1%29.ogg/Workshop_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Long Way Home",
-				url: "https://oldschool.runescape.wiki/images/Long_Way_Home.ogg?3f9c3",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Long_Way_Home_%28v1%29.ogg/Long_Way_Home_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Miles Away",
-				url: "https://oldschool.runescape.wiki/images/Miles_Away.ogg?3ed14",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Miles_Away_%28v1%29.ogg/Miles_Away_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Nightfall",
-				url: "https://oldschool.runescape.wiki/images/Nightfall.ogg?1bda6",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Nightfall_%28v1%29.ogg/Nightfall_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -98,7 +98,7 @@ export const SOUND_DATA_FALADOR = [
 		tracks: [
 			{
 				name: "Barbarianism",
-				url: "https://oldschool.runescape.wiki/images/Barbarianism.ogg?0e576",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Barbarianism_%28v2%29.ogg/Barbarianism_%28v2%29.ogg.mp3",
 			},
 		],
 	},
@@ -107,20 +107,21 @@ export const SOUND_DATA_FALADOR = [
 		tracks: [
 			{
 				name: "Attention",
-				url: "https://oldschool.runescape.wiki/images/Attention.ogg?45881",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Attention_%28v1%29.ogg/Attention_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Emperor",
-				url: "https://oldschool.runescape.wiki/images/Emperor.ogg?2ae9e",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Emperor_%28v1%29.ogg/Emperor_%28v1%29.ogg.mp3",
 			},
 		],
 	},
 	{
-		name: "🦜 Port Sarim",
+		name: "🦜 Port Sarim (?)",
 		tracks: [
 			{
 				name: "Sea Shanty 2",
 				url: "https://oldschool.runescape.wiki/images/Sea_Shanty_2.ogg?b8e62",
+				//no mp3
 			},
 		],
 	},
@@ -132,27 +133,27 @@ export const SOUND_DATA_LUMBRIDGE = [
 		tracks: [
 			{
 				name: "Autumn Voyage",
-				url: "https://oldschool.runescape.wiki/images/Autumn_Voyage.ogg?87eab",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Autumn_Voyage_%28v1%29.ogg/Autumn_Voyage_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Book of Spells",
-				url: "https://oldschool.runescape.wiki/images/Book_of_Spells.ogg?84171",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Book_of_Spells_%28v1%29.ogg/Book_of_Spells_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Dream",
-				url: "https://oldschool.runescape.wiki/images/Dream.ogg?959e2",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Dream_%28v1%29.ogg/Dream_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Flute Salad",
-				url: "https://oldschool.runescape.wiki/images/Flute_Salad.ogg?0dd5f",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Flute_Salad_%28v1%29.ogg/Flute_Salad_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Harmony",
-				url: "https://oldschool.runescape.wiki/images/Harmony.ogg?3c785",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Harmony_%28v1%29.ogg/Harmony_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Yesteryear",
-				url: "https://oldschool.runescape.wiki/images/Yesteryear.ogg?03b03",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Yesteryear_%28v1%29.ogg/Yesteryear_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -161,7 +162,7 @@ export const SOUND_DATA_LUMBRIDGE = [
 		tracks: [
 			{
 				name: "Vision",
-				url: "https://oldschool.runescape.wiki/images/Vision.ogg?d9f6a",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Vision_%28v1%29.ogg/Vision_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -170,7 +171,7 @@ export const SOUND_DATA_LUMBRIDGE = [
 		tracks: [
 			{
 				name: "Spooky",
-				url: "https://oldschool.runescape.wiki/images/Spooky.ogg?2505d",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Spooky_%28v1%29.ogg/Spooky_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -179,15 +180,15 @@ export const SOUND_DATA_LUMBRIDGE = [
 		tracks: [
 			{
 				name: "Wander",
-				url: "https://oldschool.runescape.wiki/images/Wander.ogg?49c5e",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Wander_%28v1%29.ogg/Wander_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Start",
-				url: "https://oldschool.runescape.wiki/images/Start.ogg?b7b33",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Start_%28v1%29.ogg/Start_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Unknown Land",
-				url: "https://oldschool.runescape.wiki/images/Unknown_Land.ogg?a41ad",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Unknown_Land_%28v1%29.ogg/Unknown_Land_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -198,16 +199,17 @@ export const SOUND_DATA_EDGEVILLE = [
 		tracks: [
 			{
 				name: "Forever",
-				url: "https://oldschool.runescape.wiki/images/Forever.ogg?bfafb",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Forever_%28v1%29.ogg/Forever_%28v1%29.ogg.mp3",
 			},
 		],
 	},
 	{
-		name: "🗡 Black Knight's Fortress",
+		name: "🗡 Black Knight's Fortress (?)",
 		tracks: [
 			{
 				name: "Knightmare",
 				url: "https://oldschool.runescape.wiki/images/Knightmare.ogg?b12ad",
+				//no mp3
 			},
 		],
 	},
@@ -216,11 +218,11 @@ export const SOUND_DATA_EDGEVILLE = [
 		tracks: [
 			{
 				name: "Alone",
-				url: "https://oldschool.runescape.wiki/images/Alone.ogg?96bc1",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Alone_%28v1%29.ogg/Alone_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Dwarf Theme",
-				url: "https://oldschool.runescape.wiki/images/Dwarf_Theme.ogg?0a14f",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Dwarf_Theme_%28v1%29.ogg/Dwarf_Theme_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -229,7 +231,7 @@ export const SOUND_DATA_EDGEVILLE = [
 		tracks: [
 			{
 				name: "Goblin Village",
-				url: "https://oldschool.runescape.wiki/images/Goblin_Village.ogg?9adbc",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Goblin_Village_%28v1%29.ogg/Goblin_Village_%28v1%29.ogg.mp3",
 			},
 		],
 	},
@@ -240,16 +242,17 @@ export const SOUND_DATA_BURTHORPE = [
 		tracks: [
 			{
 				name: "Principality",
-				url: "https://oldschool.runescape.wiki/images/Principality.ogg?2c051",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Principality_%28v2%29.ogg/Principality_%28v2%29.ogg.mp3",
 			},
 		],
 	},
 	{
-		name: "🐺 White Wolf Mountain",
+		name: "🐺 White Wolf Mountain (?)",
 		tracks: [
 			{
 				name: "Ice Melody",
 				url: "https://oldschool.runescape.wiki/images/Ice_Melody.ogg?1a022",
+				//no mp3
 			},
 		],
 	},
@@ -258,20 +261,21 @@ export const SOUND_DATA_BURTHORPE = [
 		tracks: [
 			{
 				name: "Horizon",
-				url: "https://oldschool.runescape.wiki/images/Horizon.ogg?bad98",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Horizon_%28v1%29.ogg/Horizon_%28v1%29.ogg.mp3",
 			},
 			{
 				name: "Splendour",
-				url: "https://oldschool.runescape.wiki/images/Splendour.ogg?81922",
+				url: "https://oldschool.runescape.wiki/images/transcoded/Splendour_%28v1%29.ogg/Splendour_%28v1%29.ogg.mp3",
 			},
 		],
 	},
 	{
-		name: "🗺 Melzar's Maze",
+		name: "🗺 Melzar's Maze (?)",
 		tracks: [
 			{
 				name: "The Maze",
 				url: "https://oldschool.runescape.wiki/images/The_Maze.ogg?50504",
+				//no mp3
 			},
 		],
 	},
@@ -425,7 +429,7 @@ export const SOUND_DATA_SKILLS = [
 ];
 export const SOUND_DATA_EXTRA = [
 	{
-		name: "🔰 Login screen",
+		name: "🔰 Login screen (?)",
 		tracks: [
 			{
 				name: "Scape Main",
@@ -443,7 +447,7 @@ export const SOUND_DATA_EXTRA = [
 		],
 	},
 	{
-		name: "⚰ Oh dear, you are dead!",
+		name: "⚰ Oh dear, you are dead! (?)",
 		tracks: [
 			{
 				name: "Oh dear, you are dead!",
@@ -455,7 +459,7 @@ export const SOUND_DATA_EXTRA = [
 		name: "🐉 Elvarg defeated",
 		tracks: [
 			{
-				name: "Dragon Slayer I",
+				name: "Dragon Slayer I (?)",
 				url: "https://oldschool.runescape.wiki/images/Elvarg_defeated_%28Dragon_Slayer_I%29.ogg?7a129",
 			},
 		],
