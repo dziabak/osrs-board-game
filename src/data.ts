@@ -120,7 +120,8 @@ export const SOUND_DATA_FALADOR = [
 		tracks: [
 			{
 				name: "Sea Shanty 2",
-				url: "https://oldschool.runescape.wiki/images/Sea_Shanty_2.ogg?b8e62",
+				url: "https://oldschool.runescape.wiki/images/Sea_Shanty_2_%28v2%29.ogg?8b49b.mp3",
+				// url: "https://oldschool.runescape.wiki/images/Sea_Shanty_2.ogg?b8e62",
 				//no mp3
 			},
 		],
@@ -208,7 +209,8 @@ export const SOUND_DATA_EDGEVILLE = [
 		tracks: [
 			{
 				name: "Knightmare",
-				url: "https://oldschool.runescape.wiki/images/Knightmare.ogg?b12ad",
+				url: "https://oldschool.runescape.wiki/images/Knightmare.ogg?b12ad.mp3",
+				// url: "https://oldschool.runescape.wiki/images/Knightmare.ogg?b12ad",
 				//no mp3
 			},
 		],
@@ -251,7 +253,8 @@ export const SOUND_DATA_BURTHORPE = [
 		tracks: [
 			{
 				name: "Ice Melody",
-				url: "https://oldschool.runescape.wiki/images/Ice_Melody.ogg?1a022",
+				url: "https://oldschool.runescape.wiki/images/Ice_Melody.ogg?1a022.mp3",
+				// url: "https://oldschool.runescape.wiki/images/Ice_Melody.ogg?1a022",
 				//no mp3
 			},
 		],
@@ -274,7 +277,8 @@ export const SOUND_DATA_BURTHORPE = [
 		tracks: [
 			{
 				name: "The Maze",
-				url: "https://oldschool.runescape.wiki/images/The_Maze.ogg?50504",
+				url: "https://oldschool.runescape.wiki/images/The_Maze.ogg?50504.mp3",
+				// url: "https://oldschool.runescape.wiki/images/The_Maze.ogg?50504",
 				//no mp3
 			},
 		],
@@ -433,7 +437,9 @@ export const SOUND_DATA_EXTRA = [
 		tracks: [
 			{
 				name: "Scape Main",
-				url: "https://oldschool.runescape.wiki/images/Scape_Main_%28v3%29.ogg?16040",
+				url: "https://oldschool.runescape.wiki/images/Scape_Main_%28v3%29.ogg?16040.mp3",
+				// url: "https://oldschool.runescape.wiki/images/Scape_Main_%28v3%29.ogg?16040",
+				//no mp3
 			},
 		],
 	},
